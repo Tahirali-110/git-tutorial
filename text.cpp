@@ -17,3 +17,4 @@ int main() {
         cout<<1<<" "<<n-1<<endl;
     }
 }
+//hi kumal
